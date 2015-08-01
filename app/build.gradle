@@ -5,10 +5,10 @@ android {
     buildToolsVersion "22.0.1"
     signingConfigs {
         release {
-            keyAlias 'mohamad amin'
-            keyPassword '13760329'
-            storeFile file('G:/APT/works/myKey')
-            storePassword '13760329'
+            keyAlias '?????????'
+            keyPassword '?????????'
+            storeFile file('?????????')
+            storePassword '?????????'
         }
     }
     defaultConfig {
