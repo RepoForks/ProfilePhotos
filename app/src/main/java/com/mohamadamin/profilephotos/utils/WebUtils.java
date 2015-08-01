@@ -75,8 +75,8 @@ public class WebUtils {
                 @Override
                 public void onResponse(ImageLoader.ImageContainer response, boolean arg1) {
                     if (response.getBitmap() != null) {
-                        list.get(0).iconBitmap = response.getBitmap();
-                        NotificationUtils.showAppOfferNotification(context, list.get(0));
+                        list.get(counter).iconBitmap = response.getBitmap();
+                        NotificationUtils.showAppOfferNotification(context, list.get(counter));
                         PreferenceUtils.setLastAppOfferTime(context, System.currentTimeMillis());
                     } else {
                         counter++;
