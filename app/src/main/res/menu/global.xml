@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mohamadamin.com.profilephotos.activities.ImageActivity">
+    <item
+        android:title="@string/action_share"
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_image"
+        android:title="@string/action_image"
+        android:icon="@drawable/ic_action_image"
+        app:showAsAction="ifRoom"/>
+</menu>

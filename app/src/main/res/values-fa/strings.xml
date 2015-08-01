@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">عکس‌های پروفایل</string>
+    <string name="viber">وایبر</string>
+    <string name="line">لاین</string>
+    <string name="whatsapp">واتساپ</string>
+    <string name="telegram">تلگرام</string>
+    <string name="home_warning">هیچ عکسی موجود نیست!</string>
+    <string name="slider_other_apps">دیگر برنامه‌های ما</string>
+    <string name="slider_rating">امتیاز‌دهی</string>
+    <string name="action_share">اشتراک</string>
+    <string name="action_image">انتخاب به عنوان</string>
+    <string name="choose_as">انتخاب به عنوان...</string>
+    <string name="share_with">اشتراک با...</string>
+    <string name="upgrade">ارتقا</string>
+    <string name="cancel">بیخیال</string>
+
+    <string name="install_cafebazaar">باید ابتدا کافه‌بازار را روی دستگاه خود نصب کنید!</string>
+    <string name="rating_description">لطفا نظر و امتیاز خود به این برنامه را در بازار ثبت کنید. نظر شما برای ما مهم است و باعث دلگرمی ما می‌شود.</string>
+    <string name="preference_rating_description">نظر خود درباره‌ی برنامه را در بازار ثبت کنید</string>
+    <string name="rating_i_rate">نظر می‌دهم</string>
+    <string name="rating_later">بعدا</string>
+    <string name="other_apps">دیگر برنامه‌های ما</string>
+    <string name="other_apps_description">برنامه‌های دیگر ما را در کافه‌بازار مشاهده و نصب کنید</string>
+    <string name="rating">امتیاز‌دهی</string>
+    <string name="new_version">نسخه‌ی جدید‌ برنامه</string>
+    <string name="new_version_details">نسخه‌ی جدید برنامه‌ی عکس‌های پروفایل برای‌ نصب آماده است! با نصب نسخه‌ی جدید از ویژگی‌های جدید‌ آن بهره‌مند شوید.</string>
+    <string name="instagram_page">اینستاگرام ‌ما</string>
+
+    <string name="communication_contact_us">ارتباط با ما</string>
+    <string name="communication_contact_us_description">فرستادن ایمیل به توسعه دهنده</string>
+    <string name="communication_send_email">فرستادن ایمیل</string>
+    <string name="communication_send_mail_no_application">برنامه ای برای فرستادن ایمیل موجود نیست!</string>
+
+    <string name="upgrade_to_premium">نسخه‌ی کامل</string>
+    <string name="upgrade_to_premium_description">برای دیدن عکس‌ها در اندازه‌ی بزرگ یا اشتراک‌ آن‌ها و انتخاب برای‌ عکس مخاطب در دفترچه‌تلفن یا ... باید برنامه را به نسخه‌ی کامل ارتقا دهید</string>
+
+    <string name="remove_ads">حذف آگهی‌ها</string>
+
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+
+</resources>
