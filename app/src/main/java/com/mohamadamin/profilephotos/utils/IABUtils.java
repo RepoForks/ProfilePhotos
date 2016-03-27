@@ -20,7 +20,7 @@ public class IABUtils {
                         SKU_NO_ADS = "profilePhotosNoAds";
 
     public static void initializeIabHelper(final Context context) {
-        iabHelper = new IabHelper(context, "MIHNMA0GCSqGSIb3DQEBAQUAA4G7ADCBtwKBrwDOMKv7jV0y7P4ciS5w6HiM/jb7zmzJo1T9VCji2/xVOo0rLcYSYH7+7T3EL4A+iJBZnwOgFv2rbgC93+3Sa7TLvy0lDNvBkU0pgv0/wEK6B3AZfCetzV8kZFnALntPJHOLOPQofFwcwoTZ9VT2wtr+WRqwkp9lVTy71nz0/LWtC13Nh0LYsX7XCXcnYe4rYXpfzYMJGt2Wfru9MV4ybZVfEu+PXOCh7x9BEjqKfzsCAwEAAQ==");
+        iabHelper = new IabHelper(context, "WhatThisCanBe?:D7T3EL4A+iJBZnwOgFv2rbgC93+3Sa7TLvy0lDNvBkU0pgv0/wEK6B3AZfCetzV8kZFnALntPJHOLOPQofFwcwoTZ9VT2wtr+WRqwkp9lVTy71nz0/LWtC13Nh0LYsX7XCXcnYe4rYXpfzYMJGt2Wfru9MV4ybZVfEu+PXOCh7x9BEjqKfzsCAwEAAQ==");
         iabHelper.startSetup(new IabHelper.OnIabSetupFinishedListener() {
             @Override
             public void onIabSetupFinished(IabResult result) {
